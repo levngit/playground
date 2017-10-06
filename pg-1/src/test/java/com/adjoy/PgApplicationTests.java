@@ -21,4 +21,9 @@ public class PgApplicationTests
 		// add test logic here and remove this comment. Courtesy to Gerry! He does not like comments... But I do!
 	}
 
+	@Test
+	public void test2()
+	{
+		// add test logic here and remove this comment. Courtesy to Gerry! He does not like comments... But I do!
+	}
 }
